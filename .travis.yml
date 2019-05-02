@@ -4,3 +4,5 @@ before_install:
     - git clone https://github.com/binance-exchange/binance-java-api.git
     - cd binance-java-api
     - mvn install
+
+before_script: cd /home/travis/build/CryptoSmileee/trading-terminal/
