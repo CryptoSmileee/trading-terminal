@@ -40,10 +40,12 @@
 
 ## Quick start
 
-1. Clone the repo: `git clone https://github.com/orionprotocol/price-feed.git`
-2. Open price-feed folder:  `cd price-feed`
-3. Fetch the dependencies: `dep ensure`
-4. Start the API: `go run main.go`
+1. Clone the binance java api repo: `git clone https://github.com/binance-exchange/binance-java-api`
+2. Open binance-java-api folder: `cd binance-java-api`
+3. Install the software: `mvn install`
+4. Clone the repo: `git clone https://github.com/orionprotocol/trading-terminal.git`
+5. Open trading-terminal folder:  `cd trading-terminal`
+6. Start the API: ``
 
 ## Requirements
 - Java
